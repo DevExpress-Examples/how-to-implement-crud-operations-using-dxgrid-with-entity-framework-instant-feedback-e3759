@@ -3,7 +3,7 @@
 
 * [App.Config](./CS/App.Config)
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 * [NorthwindModel.Designer.cs](./CS/NorthwindModel.Designer.cs) (VB: [NorthwindModel.Designer.vb](./VB/NorthwindModel.Designer.vb))
 <!-- default file list end -->
 # How to implement CRUD operations using DXGrid with Entity Framework (Instant Feedback)
